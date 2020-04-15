@@ -3,6 +3,14 @@ h = []
 biggest = []
 
 # Find the k largest values in an array of n numbers. Return them in a new array sorted in decreasing order.
+
+
+""" 
+Psuedocode:
+- First check for edge cases
+- Then append everything from the array to a new array, starting with the highest number and doing that in descending order
+- Get the first or largest k numbers from the new array and return them
+"""
     
 def largest(a, k):
     i = 0
