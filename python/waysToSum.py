@@ -10,3 +10,5 @@
 #   1,1,2,2,2
 #   2,2,2,2
 
+def waysToSum(total: Int, k: Int):
+    return
